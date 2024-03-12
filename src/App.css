@@ -1,0 +1,14 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.sidebar {
+  width: 30%;
+  margin-left: 15px;
+}
+.home-page {
+  display: flex;
+  justify-content: space-between;
+}
